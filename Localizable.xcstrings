@@ -57,7 +57,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "非洲"
+            "value" : "非洲语"
           }
         }
       }
@@ -231,7 +231,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "电子音"
+            "value" : "电子音" # 电子音 = elektrisch geluid, kan vervanging zijn voor "Chiptune". opzich goed
           }
         }
       }
@@ -405,7 +405,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "DRUM"
+            "value" : "DRUM" # kan, of: 击 = op een drum slaan (werkwoord)
           }
         }
       }
@@ -579,7 +579,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "太棒了！"
+            "value" : "太棒了！" #  is zelfde als vorige (geweldig)
           }
         }
       }
@@ -811,7 +811,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好尝试！"
+            "value" : "好尝试！" # dit is een letterlijke vertaling. andere kandidaten: 不错哦！= "not bad!" of: 加油！= gezegde wat "do your best / keep going / you can do it" betekent
           }
         }
       }
@@ -869,7 +869,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "困难"
+            "value" : "难"
           }
         }
       }
@@ -1275,7 +1275,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好尝试！"
+            "value" : "好尝试！" # dit is een letterlijke vertaling. andere kandidaten: 不错哦！= "not bad!" of: 加油！= gezegde wat "do your best / keep going / you can do it" betekent
           }
         }
       }
@@ -2011,7 +2011,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alles Ontgrendelen"
+            "value" : "Alles ontgrendelen"
           }
         },
         "pt-BR" : {
@@ -2087,7 +2087,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "想再试一次吗？"
+            "value" : "再试一次？"
           }
         }
       }
