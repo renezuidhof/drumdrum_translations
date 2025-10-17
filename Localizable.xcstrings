@@ -1791,7 +1791,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sons // if you change sounds to Genre this should be Gêneros Musicais
+            "value" : "Sons"
           }
         },
         "zh-Hans" : {
