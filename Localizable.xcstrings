@@ -57,7 +57,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "非洲"
+            "value" : "非洲语"
           }
         }
       }
@@ -869,7 +869,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "困难"
+            "value" : "难"
           }
         }
       }
@@ -2011,7 +2011,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alles Ontgrendelen"
+            "value" : "Alles ontgrendelen"
           }
         },
         "pt-BR" : {
@@ -2087,7 +2087,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "想再试一次吗？"
+            "value" : "再试一次？"
           }
         }
       }
